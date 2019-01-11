@@ -1,7 +1,7 @@
 Code of conduct
 ---------------
 
-The main ideas of Dockerfiles here:
+The main ideas of this org's Dockerfiles:
 * Dockerfiles for security applications.
 * Apps in container start as non-root user only.
 * Base image on Alpine if possible.
