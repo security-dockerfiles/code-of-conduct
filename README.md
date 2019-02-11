@@ -32,4 +32,4 @@ docker build -t imgname https://github.com/security-dockerfiles/repo.git
 ```
 
 For docker-compose repositories just use good old `git clone` and
-`docker-compose up - d` then.
+`docker-compose up -d` then.
